@@ -10,7 +10,6 @@ This is a project to create a website for the classic rock band Natural Thing. T
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
 - [Author](#author)
 
